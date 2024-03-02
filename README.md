@@ -1,2 +1,2 @@
 # alizawaseem
-This is my first repository.
+This is my first GIT  repository.
